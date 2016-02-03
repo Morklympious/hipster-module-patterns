@@ -228,3 +228,9 @@ Sometimes even modules need to get away and go for a good camp outing. This is a
 As I've said, this isn't an exhaustive list. I'm sure that somewhere in the forests of The pacific northwest there lies a cottage where some of indie-est of the indie program their stuff. And they're probably using module patterns that are far more next-level than anything you've seen in today's javascript.
 
 Basically if you find more, be sure to let me know. Document it, give a template, submit a PR!
+
+
+### Acknowledgements
+
+This was inspired a little bit by [tfmontague's Definitive Module Pattern](https://github.com/tfmontague/definitive-module-pattern).
+And a lot by hipsters and their strange affinity for things that are not well-known. 

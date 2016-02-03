@@ -62,6 +62,10 @@ Each IIFE uses a `_shuffle()` and `_api()` method. The `_shuffle()` method is yo
 })();
 ````
 
+__Why would I want to do this?__
+
+Gee, I don't know, maybe you'd like to break away from all the molds that every programmer thinks you should fit in. This is a lonely world. It's just you out here. You gotta be unique. You've got to focus on your craft. Don't let those corporate robots steal your code. You've got to mix it up, keep it unpredictable, otherwise you're just gonna be steamrolled by `megacorp.js` (psst that's a really cool sounding js library I hope it exists)
+
 ## Post-ironic module pattern
 
 If you're feeling sick of that incredibly 'corporate' feel that the revealing module pattern or the definitive module pattern is giving you, feel free to use the post-ironic module pattern.

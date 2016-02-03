@@ -10,8 +10,7 @@ Onto the patterns!
 
 ## Shuffled module pattern
 
-    _"A hero is somebody who voluntarily walks into the unknown."_
-    - __Tom Hanks__
+_"A hero is somebody who voluntarily walks into the unknown."_ - __Tom Hanks__
 
 The shuffled module pattern is a hipster pattern where the API you receive is shuffled. You're probably going to have to figure out which keywords map to each function. There's something of value to be found in a __hand-crafted, home-grown__ approach like this.
 

@@ -95,8 +95,7 @@ Yeah. Yeah it will. Crack open a PBR, set your mustache wax down next to you, pu
 
 ## Angsty Teenager module pattern
 
-    _"No, mom. I'm in a band now. We're going to be like My Chemical Romance, but better"_
-    - __Possibly you__
+_"No, mom. I'm in a band now. We're going to be like My Chemical Romance, but better"_ - _Possibly you_
 
 The angsty teenager pattern centers around three utility members before an export occurs: a variable, `_angst`, and two functions: `_wanna()` and `_respond()`.
 

@@ -121,8 +121,8 @@ This is that concept.
     return function() {
       var args = [].slice.call(arguments);
 
-      if(!_wanna) return _angst;
-      else return fn.apply()
+      if(!_wanna()) return _angst;
+      else return fn.apply(null, args)
     }
   }
 
